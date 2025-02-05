@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Vidaamuyarchi",
+        "dor": "2025-02-06",
+        "budget": "100cr",
+        "category": "Romance & Action",
+        "image": "https://assetscdn1.paytm.com/images/cinema/Vidaamuyarchi--ce617960-d4ad-11ef-862b-473908be4a40.jpg"
+    },
+    {
+        "title": "Kudumbasthan",
+        "dor": "2025-02-06",
+        "budget": "20cr",
+        "category": "Romance & Comedy",
+        "image": "https://assetscdn1.paytm.com/images/cinema/Kudumbasthan-Poster-226a0b50-d7cc-11ef-b68a-217a8a741140.jpg"
+    },
+    {
+        "title": "Madha-Gaja-Raja",
+        "dor": "2025-02-06",
+        "budget": "20cr",
+        "category": "Love & Action",
+        "image": "https://assetscdn1.paytm.com/images/cinema/Madha-Gaja-Raja--608---800--bb28c0c2-7a6c-4e7e-816f-d068c2eacdf8.jpg?format=webp&imwidth=576"
+    },
+    {
+        "title": "Interstellar",
+        "dor": "2025-02-06",
+        "budget": "200cr",
+        "category": "Science-Friction",
+        "image": "https://assetscdn1.paytm.com/images/cinema/Interstellar-English-App-poster-608x800-7621f764-80b6-4dfa-8ba7-fbe817cb9e55.jpg?format=webp&imwidth=576"
+    },
+    {
+        "title": "Bottle-Radha",
+        "dor": "2025-02-06",
+        "budget": "20cr",
+        "category": "Drama",
+        "image": "https://assetscdn1.paytm.com/images/cinema/Bottle-Radha--770a3b20-b784-11ef-bb75-015d8093c807.jpg?format=webp"
+    },
+    {
+        "title":"Daaku-Maharaaj",
+        "dor":"2025-02-06",
+        "budget":"50cr",
+        "category":"Drama & Action",
+        "image":"https://assetscdn1.paytm.com/images/cinema/Daaku-Maharaaj-2602a3d0-ab08-11ef-8bec-85ca743197e0-5a1a99d0-d34d-11ef-b452-bfa91178df53.jpg?format=webp"
+    }
+]
