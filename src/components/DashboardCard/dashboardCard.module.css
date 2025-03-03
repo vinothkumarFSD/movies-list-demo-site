@@ -1,16 +1,22 @@
 .container{
     background-color: white;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
-    min-height: 400px;
+    border-radius: 8px;
+    
     margin: 16px;
 }
 
 .header{
-    background-color: #e3e2e1;
-    padding: 16px 20px;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
+    background-color: #fff;
+    border-radius: 8px 8px 0 0;
     font-size: 16px;
     color: blue;
+    font-weight: bold;
+    border-bottom: 1px solid #e3e6f0;
+    margin-bottom: 0;
+    padding: 16px;
+}
+
+.content {
+    padding: 16px;
+    margin: 16px;
 }

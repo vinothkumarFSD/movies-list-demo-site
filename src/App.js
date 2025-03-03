@@ -2,6 +2,7 @@ import { useState } from 'react';
 import './App.css';
 import Content from './Layout/Content';
 import Header from './Layout/Header';
+import Footer from './Layout/Footer';
 function App() {
   const [wishlist, setWishlist]= useState([]);
   const addTowishlist=(item)=>{
@@ -14,6 +15,7 @@ function App() {
     <div className="App">
       <Header wishCount={wishlist.length} />
       <Content addTowishlist={addTowishlist} removeFromwishlist={removeFromwishlist}/>
+      <Footer />
     </div>
   );
 }

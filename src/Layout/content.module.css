@@ -6,3 +6,35 @@
     display: flex;
     flex-wrap: wrap;
 }
+.dashboard{
+    flex-wrap: wrap;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px;
+}
+.title {
+    margin: 0;
+    font-family: sans-serif;
+    color: #5a5c69;
+    font-size: 1.75rem;
+}
+
+.statsContainer {    
+    position: relative;
+    word-wrap: break-word;
+    margin-left: 1rem;
+    margin-right: 1rem;  
+}
+.movieContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 12px;
+    margin: 24px; 
+    padding: 24px;
+}
